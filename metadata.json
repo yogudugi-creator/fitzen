@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Fitbro",
+  "description": "A premium, high-performance fitness tracking application featuring AI coaching, personalized workouts, and real-time progress analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
